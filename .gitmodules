@@ -1,0 +1,3 @@
+[submodule "learnSubmoduleChild"]
+	path = learnSubmoduleChild
+	url = https://github.com/zhejiangxiaomai/learnSubmoduleChild.git
